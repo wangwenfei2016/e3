@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e3.iml" filepath="$PROJECT_DIR$/e3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-api/e3-api.iml" filepath="$PROJECT_DIR$/e3-api/e3-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-dao/e3-dao.iml" filepath="$PROJECT_DIR$/e3-dao/e3-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-entity/e3-entity.iml" filepath="$PROJECT_DIR$/e3-entity/e3-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-service/e3-service.iml" filepath="$PROJECT_DIR$/e3-service/e3-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-utils/e3-utils.iml" filepath="$PROJECT_DIR$/e3-utils/e3-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-web/e3-web.iml" filepath="$PROJECT_DIR$/e3-web/e3-web.iml" />
+    </modules>
+  </component>
+</project>

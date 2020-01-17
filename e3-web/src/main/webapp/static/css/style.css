@@ -1,0 +1,56 @@
+*{margin: 0;padding: 0}
+body{font-family: "微软雅黑", "宋体", Arial, sans-serif}
+body ul li{list-style: none}
+body a:link {text-decoration: none;} /* 未访问时的状态 */
+body a:visited {color: #2b7dbc} /* 已访问过的状态 */
+body a:hover {text-decoration: none!important;} /* 鼠标移动到链接上时的状态 */
+body a:active {color: #2b7dbc!important;} /* 鼠标按下去时的状态 */
+.error{color: red;display: none}
+.error2{color:#000;display: block;}
+.error3{color:red;display: block;}
+.error4{color:green;display:none;}
+.form-control{border-radius: 5px !important;resize: none}
+.form_data input[type="text"]{border-radius: 5px!important;}
+.help{color: red;vertical-align: sub;}
+.help:hover{text-decoration: none;color: red;}
+.type{vertical-align: top}
+#status_off_div,#status_on_div,.div_1{display: none}
+.form-horizontal{margin:0 20px;}
+.form-horizon{height: 440px;overflow:scroll;overflow-x: hidden;}
+.modal-dialog{margin-top: 30px;}
+.red_line{border-bottom: 1px solid red;padding:0 5px 0 10px;margin:15px 0 !important;}
+.panel-footer{padding: 0 15px;}
+#kkpager{margin:15px 0 ;}
+@keyframes name {
+    0% {
+        height: 0px;
+    }
+    20% {
+        height: 10px;
+    }
+    40% {
+        height: 30px;
+    }
+    60% {
+        height: 50px;
+    }
+    80% {
+        height: 70px;
+    }
+    100% {
+        height: 80px;
+    }
+}
+.btn_div{padding: 3px; position: absolute;height:80px;margin-top:-80px;background-color: gainsboro;opacity:0.7;width: 80px;text-align: center;
+    animation: name 0.5s;}
+.up_div{height: 80px;width: 80px;margin: 0 5px auto;float: left;}
+.add_btn1{color: red;font-weight:bolder;margin-top: 35px;padding: 3px}
+.btn{ background-color:#FFF; border:1px solid #CDCDCD;/*height:26px;*/ /*width:70px;*/}
+.add_file{width: 60%;padding: 3px 0;}
+.add_btn{width: 80px;padding: 6px 0;border: none}
+.btn_div1{padding: 0!important;}
+.img_div{width:400px;height: 400px;margin:0 auto 10px auto;}
+.files{height: auto;overflow:auto;font-size: medium;font-family: "微软雅黑", "宋体", Arial, sans-serif}
+.list li{width:200px;height: 30px;line-height:30px;margin:0 0 5px 60%}
+.list_leb{width: 63px;text-align: center;}
+.list-op input[type="date"]{padding: 2px}

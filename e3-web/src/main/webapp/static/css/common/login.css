@@ -1,0 +1,15 @@
+*{margin: 0;padding: 0;}
+body{font:14px Verdana;color:#333;background: url('../../image/common/bg.png') no-repeat; background-size:100% 99%;top:0;height: 97%;bottom: 0;}
+form{display:inline}
+.form-login{border: 1px solid red;height: 500px;width: 700px;}
+.login{margin:20% auto 0;width:730px;height: 350px;}
+/*.login-div2{padding-top: 10%; font-size: 18px;margin-bottom: 11%;color: white;}*/
+.login-div{height: 45px;line-height:40px;color: black;font-size: 16px;margin-left: 22%;}
+.login-div-label{padding:8px 15px;}
+.login-div-span{color: red;display: none}
+.login-div-input{height: 30px;margin-left: 5px;border:1px solid silver;border-radius: 5px;width: 230px;color: silver;font-size: 14px;padding-left: 5px;}
+.login-div #verificationCode{height: 30px;margin-left: 5px;border:1px solid silver;border-radius: 5px;width: 92px;float:left;margin-top: 9px;}
+.login-div1{margin:25px auto;width: 30%;text-align: center}
+.login-div1-btn{border: 1px solid silver;border-radius: 5px;padding: 4px 12px;margin-right: 41px;}
+#login-div-yzm{ background-color:silver;float:left;margin-top: 9px; border: 1px solid silver; border-left-style: none;
+    width: 126px; margin-right: 5px; height: 30px;}

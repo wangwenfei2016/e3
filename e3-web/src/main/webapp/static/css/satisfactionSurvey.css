@@ -1,0 +1,17 @@
+*{margin: 0;padding: 0}
+body{font-size: 15px !important;font-family: "微软雅黑", "宋体", Arial, sans-serif ;}
+.content{margin: 0 auto;width: 850px;}
+.survey{width: 750px;height: 350px;margin: 15px;border-radius: 5px;padding: 10px;}
+.survey_div{margin:5px 0;padding:5px;background: whitesmoke}
+.survey_label{padding-bottom: 5px;height: 70px;}
+.survey_label input[type="text"]{border: none;background: whitesmoke;margin-left: 10px;}
+.bg{margin: 15px;height:50px;line-height: 50px;}
+.label{float:left;margin-right: 15px;height:45px;vertical-align: top}
+.label_div{height: 40px;float:left;}
+.container{float:left;margin-top: 9px;}
+.score{float: left; position: relative;width: 100px;margin-top: 5px;margin-left: 10px;}
+span{ display: none;position: absolute;left: 0;top: 0;}
+.scoreDisplay{ display: block;}
+.bg_div{margin: 15px;height:auto}
+.bg_btn{text-align: right;margin-right: 15%;}
+.bg_btn .sub{padding: 4px 9px;border-radius: 5px;}

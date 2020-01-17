@@ -1,0 +1,7 @@
+# Project exclude paths
+/e3-api/target/
+/e3-dao/target/
+/e3-entity/target/
+/e3-service/target/
+/e3-utils/target/
+/e3-web/target/
